@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/matos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EspecialistaJAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/AbreviadoresOperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/AulaVariaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/CalculadoraMediaIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorDecremento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorIncremento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadoresAritmeticos.java" afterDir="false" />
+    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="mergulhadorJAVA">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorDecremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorDecremento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +48,22 @@
       <recent name="MergulhadorJAVA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperadorIncremento">
+  <component name="RunManager" selected="Application.OperadorDecremento">
     <configuration name="AbreviadoresOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.AbreviadoresOperadoresAritmeticos" />
+      <module name="EspecialistaJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MergulhadorJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorDecremento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.OperadorDecremento" />
       <module name="EspecialistaJAVA" />
       <extension name="coverage">
         <pattern>
@@ -89,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadorDecremento" />
         <item itemvalue="Application.OperadorIncremento" />
         <item itemvalue="Application.AbreviadoresOperadoresAritmeticos" />
       </list>
@@ -103,7 +105,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677157110425</updated>
     </task>
+    <task id="LOCAL-00001" summary="mergulhadorJAVA">
+      <created>1677162256878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677162256878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mergulhadorJAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="mergulhadorJAVA" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
