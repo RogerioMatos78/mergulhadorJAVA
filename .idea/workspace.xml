@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="Decremento">
-      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/ExemploBoolean.java" afterDir="false" />
+    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="boolean">
+      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/ExemploChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergulhadorJAVA/ExemploBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/ExemploBoolean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -46,7 +48,7 @@
       <recent name="MergulhadorJAVA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploBoolean">
+  <component name="RunManager">
     <configuration name="AbreviadoresOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.AbreviadoresOperadoresAritmeticos" />
       <module name="EspecialistaJAVA" />
@@ -138,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677163002933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="boolean">
+      <created>1677163287630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677163287630</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +164,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mergulhadorJAVA" />
     <MESSAGE value="Decremento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decremento" />
+    <MESSAGE value="boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="boolean" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
