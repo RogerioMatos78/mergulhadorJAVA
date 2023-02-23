@@ -7,5 +7,11 @@ public class ExemploBoolean {
 
         System.out.println(compraAprovada);
         System.out.println(clienteBloqueado);
+
+        int quantidadeEstoque = 10;
+        int quantidadePedidoCompra = 9;
+
+        boolean esoqueSuficiente = quantidadeEstoque >= quantidadePedidoCompra;
+        System.out.println("Estoque suficinte? " + esoqueSuficiente);
     }
 }
