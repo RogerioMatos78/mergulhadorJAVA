@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="mergulhadorJAVA">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorDecremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorDecremento.java" afterDir="false" />
+    <list default="true" id="fc78eb08-6dab-45d7-ba5c-37e675bd14ba" name="Changes" comment="Decremento">
+      <change afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/ExemploBoolean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +46,22 @@
       <recent name="MergulhadorJAVA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperadorDecremento">
+  <component name="RunManager" selected="Application.ExemploBoolean">
     <configuration name="AbreviadoresOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.AbreviadoresOperadoresAritmeticos" />
+      <module name="EspecialistaJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MergulhadorJAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.ExemploBoolean" />
       <module name="EspecialistaJAVA" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploBoolean" />
         <item itemvalue="Application.OperadorDecremento" />
         <item itemvalue="Application.OperadorIncremento" />
         <item itemvalue="Application.AbreviadoresOperadoresAritmeticos" />
@@ -112,12 +124,38 @@
       <option name="project" value="LOCAL" />
       <updated>1677162256878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Decremento">
+      <created>1677162935250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677162935250</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Decremento">
+      <created>1677163002933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677163002933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mergulhadorJAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="mergulhadorJAVA" />
+    <MESSAGE value="Decremento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decremento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
