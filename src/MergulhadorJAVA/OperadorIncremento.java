@@ -16,5 +16,6 @@ public class OperadorIncremento {
 
         System.out.println("Total de downloads " + totalDownloads);
         System.out.println("Novo Total de downloads " + novoTotalDownloads);
+        System.out.println("Novo de downloads " + novoTotalDownloads);
     }
 }

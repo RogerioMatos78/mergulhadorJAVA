@@ -47,7 +47,7 @@
       <recent name="MergulhadorJAVA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbreviadoresOperadoresAritmeticos">
+  <component name="RunManager">
     <configuration name="AbreviadoresOperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergulhadorJAVA.AbreviadoresOperadoresAritmeticos" />
       <module name="EspecialistaJAVA" />
