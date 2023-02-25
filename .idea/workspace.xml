@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6af126d-92a6-4242-b14a-0987a1ba52b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorIncremento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergulhadorJAVA/OperadorIncremento.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6af126d-92a6-4242-b14a-0987a1ba52b9" name="Changes" comment="incompativeis incre" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +178,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677287687384</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="incompativeis fgfr">
+      <created>1677289373153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677289373153</updated>
+    </task>
+    <task id="LOCAL-00009" summary="incompativeis fgfr">
+      <created>1677289384151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677289384151</updated>
+    </task>
+    <task id="LOCAL-00010" summary="incompativeis fgfrh">
+      <created>1677289530006</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677289530006</updated>
+    </task>
+    <task id="LOCAL-00011" summary="incompativeis incre">
+      <created>1677289625861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677289625861</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +226,10 @@
     <MESSAGE value="boolean" />
     <MESSAGE value="char" />
     <MESSAGE value="incompativeis" />
-    <option name="LAST_COMMIT_MESSAGE" value="incompativeis" />
+    <MESSAGE value="incompativeis fgfr" />
+    <MESSAGE value="incompativeis fgfrh" />
+    <MESSAGE value="incompativeis incre" />
+    <option name="LAST_COMMIT_MESSAGE" value="incompativeis incre" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
