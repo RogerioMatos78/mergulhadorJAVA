@@ -4,7 +4,7 @@ public class OperadorIncremento {
     public static void main(String[] args) {
         int totalDownloads = 10;
         int novoTotalDownloads;
-
+        // teste
         //totalDownloads = totalDownloads +1;
         //totalDownloads += 1;
 
